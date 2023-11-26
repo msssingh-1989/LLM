@@ -1,6 +1,4 @@
 import os
-
-
 from src.prescription.llm_report import *
 from fastapi import FastAPI
 from langserve import add_routes
