@@ -30,7 +30,7 @@ To prepare the diagonsis report summary in specified format from given input tex
 #### Get the source code 
 - Clone the repo using below command
     ```bash 
-        git clone 
+        git clone git@github.com:msssingh-1989/LLM.git
     ```
 - Change the dir to project dir i.e. "LLM"
 
