@@ -1,5 +1,5 @@
 .env
-archieve
-__pycache__
+archieve/*
+__pycache__/*
 /.vscode
 !.example.env
